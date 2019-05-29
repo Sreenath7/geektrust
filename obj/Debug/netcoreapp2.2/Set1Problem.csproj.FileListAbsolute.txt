@@ -1,0 +1,11 @@
+F:\Codes\Geektrust\Set1Problem\bin\Debug\netcoreapp2.2\Set1Problem.deps.json
+F:\Codes\Geektrust\Set1Problem\bin\Debug\netcoreapp2.2\Set1Problem.runtimeconfig.json
+F:\Codes\Geektrust\Set1Problem\bin\Debug\netcoreapp2.2\Set1Problem.runtimeconfig.dev.json
+F:\Codes\Geektrust\Set1Problem\bin\Debug\netcoreapp2.2\Set1Problem.dll
+F:\Codes\Geektrust\Set1Problem\bin\Debug\netcoreapp2.2\Set1Problem.pdb
+F:\Codes\Geektrust\Set1Problem\obj\Debug\netcoreapp2.2\Set1Problem.csprojAssemblyReference.cache
+F:\Codes\Geektrust\Set1Problem\obj\Debug\netcoreapp2.2\Set1Problem.csproj.CoreCompileInputs.cache
+F:\Codes\Geektrust\Set1Problem\obj\Debug\netcoreapp2.2\Set1Problem.AssemblyInfoInputs.cache
+F:\Codes\Geektrust\Set1Problem\obj\Debug\netcoreapp2.2\Set1Problem.AssemblyInfo.cs
+F:\Codes\Geektrust\Set1Problem\obj\Debug\netcoreapp2.2\Set1Problem.dll
+F:\Codes\Geektrust\Set1Problem\obj\Debug\netcoreapp2.2\Set1Problem.pdb

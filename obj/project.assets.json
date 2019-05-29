@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "f:\\Codes\\Geektrust\\geektrust\\geektrust.csproj",
-      "projectName": "geektrust",
-      "projectPath": "f:\\Codes\\Geektrust\\geektrust\\geektrust.csproj",
+      "projectUniqueName": "F:\\Codes\\Geektrust\\Set1Problem\\Set1Problem.csproj",
+      "projectName": "Set1Problem",
+      "projectPath": "F:\\Codes\\Geektrust\\Set1Problem\\Set1Problem.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "f:\\Codes\\Geektrust\\geektrust\\obj\\",
+      "outputPath": "F:\\Codes\\Geektrust\\Set1Problem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
